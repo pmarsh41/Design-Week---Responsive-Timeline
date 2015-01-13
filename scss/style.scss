@@ -13,13 +13,45 @@
 /**
  * GRIDS
  */
+
+ .radiusoutline{
+    border-radius: 15px;
+ }
+
+ .copybox {
+    color: white;
+ }
 .aluminum {
     display: block;
     width: auto;
     margin-right: 250px;
     margin-left: 250px;
-    background: #A3CC0C;
+    outline: red solid 1px;
+    background-color: #69E2FF;
 
+
+
+}
+.aluminumtwo {
+    display: block;
+    width: auto;
+    margin-right: 250px;
+    margin-left: 250px;
+   background-color: #4183c4;
+
+}
+
+.graphicline {
+
+}
+
+.title {
+    color: white;
+
+}
+
+.title2 {
+    color: white;
 }
 .grid {
     width: 100%;
